@@ -1,1 +1,8 @@
-node_modules/\n.venv/\n__pycache__/\n*.pyc\n.DS_Store\n.vite/\n.env\n
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vite/
+.env
