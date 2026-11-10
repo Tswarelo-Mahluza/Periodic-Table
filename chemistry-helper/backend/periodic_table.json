@@ -1,0 +1,302 @@
+[
+  {
+    "atomic_number": 1,
+    "name": "Hydrogen",
+    "symbol": "H",
+    "atomic_mass": 1.008,
+    "group": 1,
+    "period": 1,
+    "electron_configuration": "1s1",
+    "category": "Nonmetal",
+    "facts": [
+      "The most abundant element in the universe.",
+      "The lightest element: a hydrogen atom is just one proton and one electron.",
+      "Water is made of hydrogen and oxygen (H2O)."
+    ]
+  },
+  {
+    "atomic_number": 2,
+    "name": "Helium",
+    "symbol": "He",
+    "atomic_mass": 4.0026,
+    "group": 18,
+    "period": 1,
+    "electron_configuration": "1s2",
+    "category": "Noble Gas",
+    "facts": [
+      "Helium was detected in the Sun's light before anyone found it on Earth.",
+      "It has the lowest boiling point of any element, about -269 °C.",
+      "Liquid helium cools the powerful magnets in MRI scanners."
+    ]
+  },
+  {
+    "atomic_number": 3,
+    "name": "Lithium",
+    "symbol": "Li",
+    "atomic_mass": 6.94,
+    "group": 1,
+    "period": 2,
+    "electron_configuration": "[He] 2s1",
+    "category": "Alkali Metal",
+    "facts": [
+      "The lightest metal: it is less dense than water.",
+      "Lithium powers the rechargeable batteries in phones and electric cars.",
+      "It is soft enough to cut with a knife and is stored under oil."
+    ]
+  },
+  {
+    "atomic_number": 4,
+    "name": "Beryllium",
+    "symbol": "Be",
+    "atomic_mass": 9.0122,
+    "group": 2,
+    "period": 2,
+    "electron_configuration": "[He] 2s2",
+    "category": "Alkaline Earth Metal",
+    "facts": [
+      "Emeralds and aquamarine are gemstones that contain beryllium.",
+      "It is light and stiff, so the mirrors of the James Webb Space Telescope are made of it.",
+      "Beryllium dust is toxic and must be handled carefully."
+    ]
+  },
+  {
+    "atomic_number": 5,
+    "name": "Boron",
+    "symbol": "B",
+    "atomic_mass": 10.81,
+    "group": 13,
+    "period": 2,
+    "electron_configuration": "[He] 2s2 2p1",
+    "category": "Metalloid",
+    "facts": [
+      "Boron is added to glass to make heat-resistant borosilicate glass (like Pyrex).",
+      "Plants need small amounts of boron to grow.",
+      "Borax, a common cleaning mineral, contains boron."
+    ]
+  },
+  {
+    "atomic_number": 6,
+    "name": "Carbon",
+    "symbol": "C",
+    "atomic_mass": 12.011,
+    "group": 14,
+    "period": 2,
+    "electron_configuration": "[He] 2s2 2p2",
+    "category": "Nonmetal",
+    "facts": [
+      "All known life is built on carbon.",
+      "Diamond and graphite are both pure carbon, arranged differently.",
+      "Carbon-14 is used to date ancient objects."
+    ]
+  },
+  {
+    "atomic_number": 7,
+    "name": "Nitrogen",
+    "symbol": "N",
+    "atomic_mass": 14.007,
+    "group": 15,
+    "period": 2,
+    "electron_configuration": "[He] 2s2 2p3",
+    "category": "Nonmetal",
+    "facts": [
+      "About 78% of Earth's atmosphere is nitrogen.",
+      "Liquid nitrogen is about -196 °C and is used to freeze things quickly.",
+      "Nitrogen is a key part of proteins and DNA."
+    ]
+  },
+  {
+    "atomic_number": 8,
+    "name": "Oxygen",
+    "symbol": "O",
+    "atomic_mass": 15.999,
+    "group": 16,
+    "period": 2,
+    "electron_configuration": "[He] 2s2 2p4",
+    "category": "Nonmetal",
+    "facts": [
+      "Oxygen makes up about 21% of the air we breathe.",
+      "It is the most abundant element in Earth's crust by mass.",
+      "Fire needs oxygen to burn."
+    ]
+  },
+  {
+    "atomic_number": 9,
+    "name": "Fluorine",
+    "symbol": "F",
+    "atomic_mass": 18.998,
+    "group": 17,
+    "period": 2,
+    "electron_configuration": "[He] 2s2 2p5",
+    "category": "Halogen",
+    "facts": [
+      "Fluorine is the most electronegative element, so it reacts with almost everything.",
+      "Fluoride in toothpaste helps protect teeth from decay.",
+      "Non-stick Teflon coatings contain fluorine."
+    ]
+  },
+  {
+    "atomic_number": 10,
+    "name": "Neon",
+    "symbol": "Ne",
+    "atomic_mass": 20.18,
+    "group": 18,
+    "period": 2,
+    "electron_configuration": "[He] 2s2 2p6",
+    "category": "Noble Gas",
+    "facts": [
+      "Neon glows reddish-orange in glass signs when electricity passes through it.",
+      "Its name comes from the Greek word for 'new'.",
+      "It almost never forms compounds with other elements."
+    ]
+  },
+  {
+    "atomic_number": 11,
+    "name": "Sodium",
+    "symbol": "Na",
+    "atomic_mass": 22.99,
+    "group": 1,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s1",
+    "category": "Alkali Metal",
+    "facts": [
+      "Sodium reacts violently with water.",
+      "Table salt is sodium chloride (NaCl).",
+      "Sodium gives a bright yellow color in a flame test."
+    ]
+  },
+  {
+    "atomic_number": 12,
+    "name": "Magnesium",
+    "symbol": "Mg",
+    "atomic_mass": 24.305,
+    "group": 2,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s2",
+    "category": "Alkaline Earth Metal",
+    "facts": [
+      "Magnesium burns with a brilliant white light, which is why it was used in old camera flashes.",
+      "It sits at the center of the chlorophyll molecule that plants use for photosynthesis.",
+      "Lightweight magnesium alloys are used in laptops and car parts."
+    ]
+  },
+  {
+    "atomic_number": 13,
+    "name": "Aluminium",
+    "symbol": "Al",
+    "atomic_mass": 26.982,
+    "group": 13,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s2 3p1",
+    "category": "Post-transition Metal",
+    "facts": [
+      "The most abundant metal in Earth's crust.",
+      "Aluminium can be recycled again and again without losing quality.",
+      "It was once so hard to produce that it was valued like a precious metal."
+    ]
+  },
+  {
+    "atomic_number": 14,
+    "name": "Silicon",
+    "symbol": "Si",
+    "atomic_mass": 28.085,
+    "group": 14,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s2 3p2",
+    "category": "Metalloid",
+    "facts": [
+      "Silicon is the second most abundant element in Earth's crust.",
+      "Computer chips are made from ultra-pure silicon.",
+      "Ordinary sand is mostly silicon dioxide."
+    ]
+  },
+  {
+    "atomic_number": 15,
+    "name": "Phosphorus",
+    "symbol": "P",
+    "atomic_mass": 30.974,
+    "group": 15,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s2 3p3",
+    "category": "Nonmetal",
+    "facts": [
+      "White phosphorus glows faintly in the dark.",
+      "Phosphorus is part of DNA and of ATP, the molecule that carries energy in cells.",
+      "It was discovered in 1669 by a German alchemist who was distilling urine."
+    ]
+  },
+  {
+    "atomic_number": 16,
+    "name": "Sulfur",
+    "symbol": "S",
+    "atomic_mass": 32.06,
+    "group": 16,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s2 3p4",
+    "category": "Nonmetal",
+    "facts": [
+      "Pure sulfur is a bright yellow solid.",
+      "The smell of rotten eggs comes from a sulfur compound, hydrogen sulfide.",
+      "Sulfuric acid, made from sulfur, is one of the most widely produced industrial chemicals."
+    ]
+  },
+  {
+    "atomic_number": 17,
+    "name": "Chlorine",
+    "symbol": "Cl",
+    "atomic_mass": 35.45,
+    "group": 17,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s2 3p5",
+    "category": "Halogen",
+    "facts": [
+      "Chlorine is a greenish-yellow gas that is poisonous on its own.",
+      "It is used to disinfect swimming pools and drinking water.",
+      "Combined with sodium it forms harmless table salt."
+    ]
+  },
+  {
+    "atomic_number": 18,
+    "name": "Argon",
+    "symbol": "Ar",
+    "atomic_mass": 39.948,
+    "group": 18,
+    "period": 3,
+    "electron_configuration": "[Ne] 3s2 3p6",
+    "category": "Noble Gas",
+    "facts": [
+      "Argon makes up almost 1% of Earth's atmosphere.",
+      "Its name comes from the Greek word for 'lazy' because it hardly reacts.",
+      "It fills many light bulbs and protects metal during welding."
+    ]
+  },
+  {
+    "atomic_number": 19,
+    "name": "Potassium",
+    "symbol": "K",
+    "atomic_mass": 39.098,
+    "group": 1,
+    "period": 4,
+    "electron_configuration": "[Ar] 4s1",
+    "category": "Alkali Metal",
+    "facts": [
+      "Bananas are famous for being rich in potassium.",
+      "Potassium reacts vigorously with water and burns with a lilac flame.",
+      "Your nerves and muscles need potassium to work."
+    ]
+  },
+  {
+    "atomic_number": 20,
+    "name": "Calcium",
+    "symbol": "Ca",
+    "atomic_mass": 40.078,
+    "group": 2,
+    "period": 4,
+    "electron_configuration": "[Ar] 4s2",
+    "category": "Alkaline Earth Metal",
+    "facts": [
+      "Calcium is the main mineral in your bones and teeth.",
+      "Limestone, chalk and marble are all calcium carbonate.",
+      "Calcium gives a brick-red color in a flame test."
+    ]
+  }
+]
